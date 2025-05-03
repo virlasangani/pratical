@@ -28,14 +28,18 @@ A React-based frontend project scaffolded with **Vite** and styled using **Tailw
    ```bash
    npm run dev
 
-
 ## 📁 Project Structure
 
 src/
 ├── components/ # Shared reusable components
+
 ├── layout/ # Common layout used across pages
+
 ├── pages/ # Page-level components (Home, Contact Us)
+
 ├── routes/ # Routing configuration
+
 ├── App.jsx # Root component
+
 └── main.jsx # Application entry point
 
