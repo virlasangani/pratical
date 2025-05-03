@@ -43,3 +43,10 @@ src/
 
 └── main.jsx # Application entry point
 
+
+## Home Page
+![Alt text](./src/assets/HomePage.png)
+
+
+## Contact Us Page
+![Alt text](./src/assets/contactUsPage.png)
